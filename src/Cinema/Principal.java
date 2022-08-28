@@ -24,7 +24,7 @@ public class Principal {
             System.out.println(i+1 + "° opção: " + filmes[i]);
         }
         for (int j = 0; j < 16; j++) {
-            
+
             System.out.println("Escolha o filme desejado: [1] [2] [3] ");
             int opcaoFilme = scanner.nextInt();
 
